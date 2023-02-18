@@ -1,7 +1,7 @@
 # mmclassification
-使用mmclassification完成分类任务
-## main 分支：
-- configs文件夹里面为配置文件
-- log文件夹里面为训练日志
-## master 分支：
-- results文件夹里面为训练保存的模型
+Use mmclassification to complete classification tasks
+## main branch：
+- The configs folder contains configuration files
+- The log folder contains the training log
+## master branch：
+- The model saved for training in the results folder
