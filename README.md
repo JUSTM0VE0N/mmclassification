@@ -1,4 +1,4 @@
-# OpenMMLab-mmclassification
+# mmclassification
 使用mmclassification完成分类任务
 ## main 分支：
 - configs文件夹里面为配置文件
